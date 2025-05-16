@@ -1,0 +1,29 @@
+{
+    "users": {},
+    "shop": {
+        "sword": {
+            "price": 100,
+            "description": "A sharp blade"
+        },
+        "shield": {
+            "price": 150,
+            "description": "Protect yourself"
+        },
+        "potion": {
+            "price": 50,
+            "description": "Heals 50 HP"
+        },
+        "cookie": {
+            "price": 30,
+            "description": "A sweet snack"
+        },
+        "bow": {
+            "price": 120,
+            "description": "A ranged weapon"
+        },
+        "gem": {
+            "price": 500,
+            "description": "A mysterious shiny gem"
+        }
+    }
+}
